@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\BooksCatalogXmlSerializable\obj\Debug\BooksCatalogXmlSerializable.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\BooksCatalogXmlSerializable\bin\Debug\BooksCatalogXmlSerializable.dll
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\BooksCatalogXmlSerializable\bin\Debug\BooksCatalogXmlSerializable.pdb
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\BooksCatalogXmlSerializable\obj\Debug\BooksCatalogXmlSerializable.dll
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\BooksCatalogXmlSerializable\obj\Debug\BooksCatalogXmlSerializable.pdb

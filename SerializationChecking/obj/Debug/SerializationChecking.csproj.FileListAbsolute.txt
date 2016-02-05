@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\bin\Debug\SerializationChecking.exe.config
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\bin\Debug\SerializationChecking.exe
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\bin\Debug\SerializationChecking.pdb
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\bin\Debug\BooksCatalogXmlSerializable.dll
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\bin\Debug\BooksCatalogXmlSerializable.pdb
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\obj\Debug\SerializationChecking.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\obj\Debug\SerializationChecking.exe
+c:\users\user\documents\visual studio 2013\Projects\BooksCatalog\SerializationChecking\obj\Debug\SerializationChecking.pdb
